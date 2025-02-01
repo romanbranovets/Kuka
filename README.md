@@ -10,3 +10,7 @@
 - Actuator.slx - Модель привода
 - DataInspectorLayout.mldatx - Окно вывода основных графиков, описывающих движение каждого звена
 - KukaManipulator.slx - Модель Simscape Multibody, визуализирующая движение манипулятора
+
+### Запуск проекта
+
+Для запуска проекта необходимо запустить KukaManipulator.slx
